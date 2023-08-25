@@ -1,4 +1,4 @@
-# Recognize-Handwritten-Notes
+# Recognize-Handwritten-Digits
 # Step 1 — Configuring the Project
 Before you can develop the recognition program, you’ll need to install a few dependencies and create a workspace to hold your files.
 We’ll use a Python 3 virtual environment to manage our project’s dependencies. Create a new directory for your project and navigate to thenew directory
