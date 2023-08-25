@@ -1,0 +1,6 @@
+# Create a new directory
+mkdir tensorflow-demo
+cd tensorflow-demo
+# Python environment Setup
+python3 -m venv tensorflow-demo
+source tensorflow-demo/bin/activate
